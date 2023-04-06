@@ -1,0 +1,44 @@
+.proxy-header {
+  color: white;
+  font-family: sans-serif;
+  margin-top: -730px;
+  font-size: 20px;
+  margin-left: 130px;
+}
+.proxy-tableHeader {
+  background: linear-gradient(105.41deg, #5e40a7 1.64%, #a269f0 100%);
+  border-radius: 10px;
+  width: 850px;
+  height: 35px;
+  margin-left: 500px;
+  margin-top: -8px;
+}
+.proxy-Name {
+  color: white;
+  font-family: sans-serif;
+  font-size: 12px;
+  display: table;
+  padding-left: 50px;
+  padding-top: 10px;
+}
+.proxy-Amount {
+  color: white;
+  font-family: sans-serif;
+  font-size: 12px;
+  display: table;
+  padding-left: 400px;
+  margin-top: -22px;
+}
+.proxy-List {
+  margin-left: 500px;
+  width: 870px;
+  height: 600px;
+  margin-top: 10px;
+  overflow: hidden;
+  overflow-y: scroll;
+
+}
+.proxy-List::-webkit-scrollbar-track {
+  background: #111317 !important;
+  margin-top: 20px;
+}

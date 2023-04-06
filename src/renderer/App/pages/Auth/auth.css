@@ -1,0 +1,44 @@
+.dashButton {
+  -webkit-app-region: no-drag;
+}
+.logoIMG {
+  display: block;
+  margin-top: 60px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 190px;
+  -webkit-app-region: drag;
+  user-select: none;
+  pointer-events: none;
+}
+input {
+  -webkit-app-region: no-drag;
+  user-select: none !important;
+  text-align: center !important;
+  color: #808080 !important;
+  background-color: #17191f !important;
+  cursor: auto;
+}
+button {
+  -webkit-app-region: no-drag;
+}
+.auth-msg {
+  user-select: none;
+  text-align: center;
+  margin-top: 60px;
+  font-size: 15px;
+  color: red;
+  font-family: sans-serif;
+}
+.not-active {
+  visibility: hidden;
+}
+.authenticating {
+  color: rgb(143, 139, 139) !important;
+}
+.Success-auth {
+  color: rgb(49, 218, 49);
+}
+.failed-auth {
+  color: red;
+}

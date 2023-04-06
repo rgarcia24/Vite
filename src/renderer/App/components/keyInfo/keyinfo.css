@@ -1,0 +1,78 @@
+.keyinfo-card {
+  background-color: #17191f;
+  color: white;
+  margin-left: 140px;
+  margin-top: -680px;
+  width: 420px;
+  height: 370px;
+  border-radius: 10px;
+}
+.keyinfo-card p {
+  font-size: 17px;
+  color: white;
+  font-family: sans-serif;
+}
+.keyinfo-card span {
+  color: #808080;
+  padding-left: 50px;
+}
+.welcome-headers {
+  color: white;
+  font-family: sans-serif;
+  font-size: 20px;
+  margin-top: -60px;
+  margin-left: 140px;
+}
+.keyinfo {
+  padding-top: 20px;
+  padding-left: 30px;
+}
+.licensekey-p {
+  color: #808080 !important;
+}
+.showkey-btn {
+  color: white;
+  padding-left: 30px;
+}
+.deactivate-btn {
+  border: none;
+  color: white;
+  font-family: sans-serif;
+  width: 130px;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 12px;
+  outline: none;
+  border-radius: 10px;
+  background: linear-gradient(138.12deg, #5c3fa4 10.85%, #a56bf3 97.05%);
+  cursor: pointer;
+}
+.dashboard-btn {
+  border: none;
+  color: white;
+  font-family: sans-serif;
+  width: 130px;
+  padding: 10px 15px;
+  margin-left: 80px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 12px;
+  outline: none;
+  border-radius: 10px;
+  background: linear-gradient(138.12deg, #5c3fa4 10.85%, #a56bf3 97.05%);
+  cursor: pointer;
+}
+.Toastify__toast--dark {
+  background-color: #17191f;
+}
+.Toastify__toast--error {
+  background-color: #17191f;
+}
+
+.Toastify__progress-bar--error {
+  background-color: #e74c3c;
+}
+.user-span {
+  padding: 0 !important;
+}

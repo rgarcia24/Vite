@@ -1,0 +1,16 @@
+.saveProxy-btn {
+  margin-top: 10px;
+  margin-left: 20px;
+  border: none;
+  color: white;
+  font-family: sans-serif;
+  width: 100px;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 12px;
+  outline: none;
+  cursor: pointer;
+  border-radius: 10px;
+  background: linear-gradient(138.12deg, #5c3fa4 10.85%, #a56bf3 97.05%);
+}

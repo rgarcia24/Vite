@@ -1,0 +1,43 @@
+.autoSolve-card {
+  background-color: #17191f;
+  margin-left: 580px;
+  margin-top: -410px;
+  border-radius: 10px;
+  width: 440px;
+  height: 200px;
+}
+.autoSolve-card input {
+  display: block;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left !important;
+  width: 360px;
+  height: 5px;
+  padding: 12px 20px;
+  /* padding: 10px, 15px; */
+  margin-bottom: -10px;
+  font-family: sans-serif;
+
+  color: #808080;
+  background-color: #17191f;
+  border: 1px solid #a56bf3;
+  border-radius: 10px;
+}
+.autoSolve-card button {
+  float: right;
+  margin-right: 20px;
+  margin-top: -220px;
+  border: none;
+  color: white;
+  font-family: sans-serif;
+  width: 100px;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 12px;
+  outline: none;
+  border-radius: 10px;
+  background: linear-gradient(138.12deg, #5c3fa4 10.85%, #a56bf3 97.05%);
+  cursor: pointer;
+}

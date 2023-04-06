@@ -1,0 +1,40 @@
+.proxy-Comp {
+  background-color: #17191f;
+  border-radius: 5px;
+  border-left-style: solid;
+  border-left-color: #6741d9;
+  border-left-width: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.329);
+  /* margin-left: 500px; */
+  width: 820px;
+  height: 9px;
+  margin-top: 17px;
+  padding: 16px;
+  color: white;
+  font-family: sans-serif;
+  font-size: 11px;
+}
+
+.proxyName {
+  padding-left: 23px;
+  margin-top: -4px;
+  display: table;
+}
+
+.proxyAmount {
+  padding-left: 395px;
+  display: table;
+  margin-top: -22px;
+}
+
+.proxy-Comp img {
+  float: right;
+  cursor: pointer;
+  width: 20px;
+  margin-top: -25px;
+}
+
+.editIcon {
+  margin-right: 25px;
+  background-size: 5px 5px;
+}

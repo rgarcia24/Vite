@@ -1,0 +1,10 @@
+.clock {
+  color: white;
+  display: block;
+  margin-left: 680px;
+  margin-right: auto;
+  margin-top: -30px;
+  font-size: 13px;
+  user-select: none;
+  font-family: sans-serif;
+}

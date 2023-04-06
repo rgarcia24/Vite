@@ -1,0 +1,94 @@
+.backIcon {
+  width: 20px;
+  /* margin-left: -60px; */
+  /* margin-top: -750px; */
+  /* padding-right: 20px; */
+  cursor: pointer;
+}
+.profiles-header {
+  color: white;
+  font-family: sans-serif;
+  font-size: 23px;
+ /* margin-top: -30px;
+  margin-left: 180px; */
+}
+
+.addProfile-icon {
+  /* display: flex; */
+  width: 23px;
+  cursor: pointer;
+  /* z-index: 999;
+  margin-top: -40px;
+  margin-left: 310px;
+  margin-bottom: 20px; */
+} 
+
+.profileActions-div {
+  margin-top: -740px;
+  margin-left: 1250px;
+}
+
+.importIcon {
+  width: 30px;
+  padding-left: 20px;
+  cursor: pointer;
+}
+.exportIcon {
+  width: 30px;
+  padding-left: 10px;
+  cursor: pointer;
+}
+
+.profile-header-table {
+  background: linear-gradient(105.41deg, #5e40a7 1.64%, #a269f0 100%);
+  border-radius: 10px;
+  width: 100%;
+  max-width: 1220px;
+  height: 35px;
+  margin-left: 120px;
+}
+.profile-header-table p {
+  display: inline-block;
+  color: white;
+  font-family: sans-serif;
+  font-size: 13px;
+  margin-top: 8px;
+}
+.profiles {
+  max-width: 1230px;
+  width: 100%;
+  height: 610px;
+  margin-top: 20px;
+  margin-left: 120px;
+  overflow: hidden;
+  overflow-y: scroll;
+}
+.profiles::-webkit-scrollbar-track {
+  background: #111317 !important;
+  margin-top: 8px;
+  cursor: pointer;
+}
+.profile-Name {
+  margin-left: 40px;
+}
+.profile-Email {
+  margin-left: 120px;
+}
+.profile-CardHolder {
+  margin-left: 90px;
+}
+.profile-Card {
+  margin-left: 100px;
+}
+.profile-Expiry {
+  margin-left: 130px;
+}
+.profile-Type {
+  margin-left: 130px;
+}
+.profile-Address {
+  margin-left: 40px;
+}
+.profile-PhoneNumber {
+  margin-left: 100px;
+}

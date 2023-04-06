@@ -1,0 +1,19 @@
+.checkout-comp {
+    background-color: #111317b3;
+    height: 60px;
+    font-family: sans-serif;
+    box-shadow: 0 4px 8px 0 #00000054;
+    color: white;
+    font-weight: bold;
+    font-size: 12px;
+
+}
+
+
+.checkout-comp td:nth-child(1) {
+    border-radius: 10px 0px 0px 10px;
+}
+
+.checkout-comp td:nth-last-child(1) {
+    border-radius: 0px 10px 10px 0px;
+}

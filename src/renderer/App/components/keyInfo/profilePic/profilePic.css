@@ -1,0 +1,11 @@
+.avatar-img {
+  border: 5px solid #a76cf5;
+  width: 60px;
+
+  border-radius: 50%;
+}
+
+.img-div {
+  padding-left: 30px;
+  padding-top: 30px;
+}

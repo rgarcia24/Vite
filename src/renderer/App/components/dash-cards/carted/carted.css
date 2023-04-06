@@ -1,0 +1,26 @@
+.carted-card {
+  background-color: #17191f;
+  width: 250px;
+  height: 300px;
+  margin-top: -300px;
+  margin-left: 410px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.carted-icon {
+  width: 40px;
+}
+
+.total-carted {
+  font-family: sans-serif;
+  font-size: 20px;
+  /* padding-left: 65px; */
+  color: rgba(255, 255, 255, 0.43);
+}
+
+.num-carted {
+  color: white;
+  font-family: sans-serif;
+}

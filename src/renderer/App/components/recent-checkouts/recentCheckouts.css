@@ -1,0 +1,103 @@
+.recent-checkouts {
+  background-color: #17191f;
+  margin-left: 960px;
+  border-radius: 10px;
+  width: 460px;
+  height: 665px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.checkouts-tableHeadings {
+  position: sticky;
+  top: 0;
+  width: 90%;
+  height: 40px;
+  border-radius: 5px;
+  background: linear-gradient(105.41deg, #5e40a7 1.64%, #7043ae 100%);
+  margin-left: 20px;
+  margin-top: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.329);
+  color: white;
+  font-weight: bold;
+  font-family: sans-serif;
+  font-size: 14px;
+}
+
+
+
+.recentCheckouts-header {
+  color: white;
+  font-family: sans-serif;
+  font-size: 18px;
+  padding-left: 20px;
+  padding-top: 20px;
+}
+
+
+
+.prod-name {
+  color: #a485f2;
+}
+
+td,
+th {
+  color: white;
+  font-size: 12px;
+  font-family: sans-serif;
+  text-align: left;
+  padding: 8px;
+}
+
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #17191f;
+  margin-top: 60px;
+}
+
+::-webkit-scrollbar-track {
+  border-radius: 10px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(105.28deg, #5e40a7 0%, #a068ee 100%);
+  border-radius: 10px;
+}
+
+.tableCheckouts-table {
+  overflow: hidden;
+  overflow-y: scroll;
+  height: 89%;
+}
+
+.recent-checkouts th {
+  position: sticky;
+  top: 0;
+  font-size: 13px;
+}
+
+
+
+.recent-checkouts table {
+  padding-left: 20px;
+  width: 96%;
+  height: 20%;
+  border-spacing: 0 15px;
+  border-radius: 10px;
+
+}
+
+
+.recent-checkouts th:nth-child(1) {
+  border-radius: 10px 0px 0px 10px;
+}
+
+.recent-checkouts th:nth-last-child(1) {
+  border-radius: 0px 10px 10px 0px;
+}

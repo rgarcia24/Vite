@@ -1,0 +1,57 @@
+.addedProfilesGroup-header {
+  color: white;
+  display: inline;
+  padding-left: 20px;
+  font-family: sans-serif;
+  font-size: 25px;
+}
+
+.addProfileGroup-icon {
+  display: inline;
+  width: 23px;
+  padding-left: 15px;
+  padding-top: 10px;
+  cursor: pointer;
+}
+
+.deleteProfiles-icon {
+  display: inline;
+  width: 23px;
+  padding-left: 10px;
+  padding-top: 10px;
+  cursor: pointer;
+}
+
+.profileGroup-header {
+  margin-top: -750px;
+  margin-left: 110px;
+}
+
+.profileGroups-div {
+  width: 1280px;
+  height: 650px;
+  margin-left: 110px;
+  margin-top: 20px;
+  overflow: hidden;
+  overflow-y: scroll;
+}
+
+.profileGroups-div::-webkit-scrollbar-track {
+  background: #111317 !important;
+  margin-top: 8px;
+}
+
+/* .taskGroup-div img {
+  display: inline;
+  width: 23px;
+  padding-left: 15px;
+  padding-top: 10px;
+  cursor: pointer;
+}
+.taskgroup-header {
+  color: white;
+  display: inline;
+  padding-left: 20px;
+  font-family: sans-serif;
+  font-size: 25px;
+} */

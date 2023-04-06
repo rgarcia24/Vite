@@ -1,0 +1,76 @@
+.profile-comp {
+  background-color: #17191f;
+  border-radius: 5px;
+  border-left-style: solid;
+  border-left-color: #6741d9;
+  border-left-width: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.329);
+  transition: 0.3s;
+  
+  /* border-image: linear-gradient(to bottom, red, rgba(0, 0, 0, 0)) 1 100%; */
+  /* border-image: linear-gradient(to bottom, #5e40a7 0%, #a068ee 100%) 1 100%; */
+  /* border-left-width: 5px; */
+  /* margin-left: 500px; */
+  width: 96%;
+  height: 20px;
+  margin-top: 10px;
+  padding: 16px;
+  padding-top: 30px;
+}
+.profile-comp:hover {
+  cursor: pointer;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.52);
+  opacity: 60%;
+}
+.profile-comp p {
+  display: table;
+  color: white;
+  font-family: sans-serif;
+  font-size: 13px;
+  margin-top: -5px;
+}
+.profileComp-Name {
+  margin-left: 20px;
+}
+.profileComp-CardHolder {
+  margin-left: 150px;
+  margin-top: -27px !important;
+}
+.profileComp-Card {
+  margin-left: 1040px;
+  margin-top: -28px !important;
+}
+.profileComp-expiry {
+  margin-left: 900px;
+  margin-top: -28px !important;
+}
+.profileComp-type {
+  margin-left: 740px;
+  margin-top: -28px !important;
+}
+.profileComp-Email {
+  margin-left: 300px;
+  margin-top: -27px !important;
+}
+.profileComp-PhoneNumber {
+  margin-left: 440px;
+  margin-top: -27px !important;
+}
+.profileComp-Address {
+  margin-left: 560px;
+  margin-top: -28px !important;
+}
+
+.profile-comp img {
+  float: right;
+  cursor: pointer;
+  width: 20px;
+  margin-top: -32px;
+}
+.editProfile-Icon {
+   margin-right: 30px;
+  background-size: 5px 5px;
+}
+.deleteProfile-icon {
+  margin-right: 5px;
+}

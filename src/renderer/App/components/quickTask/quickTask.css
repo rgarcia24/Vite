@@ -1,0 +1,42 @@
+.quickTask-card {
+  background-color: #17191f;
+  width: 420px;
+  height: 250px;
+  margin-left: 140px;
+  margin-top: 160px;
+  border-radius: 10px;
+}
+.quickTask-card select {
+  color: #808080;
+  margin-left: 30px;
+  margin-top: 10px;
+  padding: 10px 10px;
+  width: 170px;
+  background-color: #17191f;
+  border: 1px solid #a56bf3;
+  border-radius: 10px;
+}
+
+.quickTask-card select:focus {
+  outline: 0;
+  outline-color: transparent;
+  outline-style: none;
+}
+
+.save-qt {
+  cursor: pointer;
+  float: right;
+  margin-right: 20px;
+  margin-top: 30px;
+  border: none;
+  color: white;
+  font-family: sans-serif;
+  width: 100px;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 12px;
+  outline: none;
+  border-radius: 10px;
+  background: linear-gradient(138.12deg, #5c3fa4 10.85%, #a56bf3 97.05%);
+}

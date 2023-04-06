@@ -1,0 +1,54 @@
+.discordWebhook-card {
+  background-color: #17191f;
+  margin-left: 580px;
+  margin-top: 30px;
+  border-radius: 10px;
+  width: 440px;
+  height: 230px;
+}
+.discordHook-header {
+  color: white;
+  font-family: sans-serif;
+  font-size: 20px;
+  padding-top: 20px;
+  padding-left: 30px;
+}
+.discordWebhook-card input {
+  display: block;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left !important;
+  width: 360px;
+  height: 10px;
+  padding: 12px 20px;
+  /* padding: 10px, 15px; */
+  margin-bottom: 20px;
+  font-family: sans-serif;
+
+  color: #808080;
+  background-color: #17191f;
+  border: 1px solid #a56bf3;
+  border-radius: 10px;
+}
+input:focus {
+  outline: 0;
+  outline-color: transparent;
+  outline-style: none;
+}
+.discordWebhook-card button {
+  float: right;
+  margin-right: 20px;
+  cursor: pointer;
+  border: none;
+  color: white;
+  font-family: sans-serif;
+  width: 100px;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 12px;
+  outline: none;
+  border-radius: 10px;
+  background: linear-gradient(138.12deg, #5c3fa4 10.85%, #a56bf3 97.05%);
+}

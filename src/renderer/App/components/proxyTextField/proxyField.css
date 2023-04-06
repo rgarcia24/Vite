@@ -1,0 +1,24 @@
+.proxyField-card {
+  background-color: #17191f;
+  width: 330px;
+  height: 640px;
+  margin-left: 130px;
+  margin-top: -700px;
+  border-radius: 10px;
+}
+.proxyField-card textarea {
+  padding: 20px 20px;
+  position: absolute;
+  background-color: #17191f;
+  font-family: sans-serif;
+  color: #808080;
+  border: none;
+  resize: none;
+  border-radius: 10px;
+  width: 290px;
+  height: 600px;
+}
+.proxyField-card textarea:focus {
+  border-color: #17191f;
+  outline: none;
+}

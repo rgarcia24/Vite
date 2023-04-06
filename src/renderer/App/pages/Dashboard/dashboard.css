@@ -1,0 +1,8 @@
+.win-btns {
+  width: 20px;
+  margin-top: 20px;
+  margin-left: 1390px;
+}
+svg {
+  -webkit-app-region: no-drag;
+}

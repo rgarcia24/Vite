@@ -1,0 +1,5 @@
+.dashboard-cards {
+  -webkit-user-select: none;
+  user-select: none;
+  cursor: default;
+}

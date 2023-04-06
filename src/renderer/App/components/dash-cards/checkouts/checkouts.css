@@ -1,0 +1,26 @@
+.checkouts-card {
+  background-color: #17191f;
+  width: 250px;
+  height: 300px;
+  margin-top: -335px;
+  margin-left: 130px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+
+.checkouts-icon {
+  width: 40px;
+}
+
+.total-checkouts {
+  font-family: sans-serif;
+  font-size: 20px;
+  color: rgba(255, 255, 255, 0.43);
+}
+
+.num-checkouts {
+  color: white;
+  font-family: sans-serif;
+}

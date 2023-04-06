@@ -1,0 +1,12 @@
+.fnl-jd-card {
+  background-color: #17191f;
+  width: 220px;
+  height: 140px;
+  margin-left: 960px;
+  margin-top: 20px;
+  border-radius: 10px;
+}
+.fnl-jd-card img {
+  padding-top: 20px;
+  padding-left: 20px;
+}

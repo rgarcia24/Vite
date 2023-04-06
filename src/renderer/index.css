@@ -1,0 +1,22 @@
+html,
+body {
+  -webkit-app-region: drag;
+  background-color: #111317;
+  margin: 0;
+  padding: 0;
+}
+*,
+*::after,
+*::before {
+  -webkit-user-select: none;
+  -webkit-user-drag: none;
+  -webkit-app-region: no-drag;
+  cursor: default;
+}
+
+
+
+.rccs__card--front, .rccs__card--back, .rccs__card__background  {
+  background: #6741d9 !important;
+  color: #fff !important;
+}

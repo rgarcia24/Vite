@@ -1,0 +1,58 @@
+.taskGroupModal {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(23, 25, 31, 0.376);
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.taskGroupContainer {
+  width: 500px;
+  height: 120px;
+  border-radius: 10px;
+  background-color: #17191f;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  display: flex;
+  flex-direction: column;
+  padding: 25px;
+}
+.taskGroup-body input {
+  width: 400px;
+  margin-left: 15px;
+  margin-top: 10px;
+  height: 10px;
+  text-align: center !important;
+}
+#taskGroupClose-btn {
+  border: none;
+  color: white;
+  font-family: sans-serif;
+  width: 100px;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  margin-left: 130px;
+  font-size: 12px;
+  outline: none;
+  cursor: pointer;
+  border-radius: 10px;
+  background: linear-gradient(138.12deg, #5c3fa4 10.85%, #a56bf3 97.05%);
+}
+#taskGroupCreate-Btn {
+  border: none;
+  color: white;
+  margin-left: 20px;
+  font-family: sans-serif;
+  width: 100px;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 12px;
+  outline: none;
+  cursor: pointer;
+  border-radius: 10px;
+  background: linear-gradient(138.12deg, #5c3fa4 10.85%, #a56bf3 97.05%);
+}

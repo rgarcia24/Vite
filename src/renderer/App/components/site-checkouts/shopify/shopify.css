@@ -1,0 +1,12 @@
+.shopify-card {
+  background-color: #17191f;
+  width: 220px;
+  height: 140px;
+  margin-left: 1200px;
+  margin-top: -300px;
+  border-radius: 10px;
+}
+.shopify-card img {
+  padding-top: 20px;
+  padding-left: 20px;
+}

@@ -1,0 +1,165 @@
+.taskGroup-div {
+  width: 310px;
+  height: 756px;
+  margin-top: -750px;
+  margin-left: 110px;
+  background-color: #111317;
+
+  overflow: hidden;
+  overflow-y: scroll;
+}
+
+.taskGroup-div::-webkit-scrollbar-track {
+  background: #17191f !important;
+  margin-top: 0px;
+}
+
+.taskGroup-div::-webkit-scrollbar {
+  width: 7px;
+}
+
+.taskGroup-div::-webkit-scrollbar-thumb {
+  background: linear-gradient(105.28deg, #5e40a7 0%, #a068ee 100%);
+  border-radius: 10px;
+}
+
+
+.taskGroup-div img {
+  display: inline;
+  width: 23px;
+  padding-left: 15px;
+  padding-top: 10px;
+  cursor: pointer;
+}
+
+.taskgroup-header {
+  color: white;
+  display: inline;
+  padding-left: 20px;
+  font-family: sans-serif;
+  font-size: 25px;
+}
+
+.tasks {
+  background-color: #111317;
+  margin-left: 450px;
+  width: 940px;
+  height: 650px;
+}
+
+.tasks-header {
+  color: white;
+  font-family: sans-serif;
+  margin-top: -750px;
+  margin-left: 450px;
+}
+
+.task-icons {
+  width: 25px;
+  padding-left: 5px;
+  cursor: pointer;
+}
+
+.task-bar {
+  background: linear-gradient(105.41deg, #5e40a7 1.64%, #a269f0 100%);
+  border-radius: 10px;
+  width: 100%;
+  height: 35px;
+  margin-top: 10px;
+}
+
+.taskBar-btns {
+  width: 340px;
+  margin-left: 600px;
+  margin-top: -30px;
+}
+
+.taskBar-btns button {
+  outline: none;
+  cursor: pointer;
+  margin-right: 5px;
+  color: white;
+  font-family: sans-serif;
+  width: 80px;
+  padding: 5px 15px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 12px;
+  outline: none;
+  background-color: #111317;
+  border-radius: 10px;
+}
+
+.taskbarStart-btn {
+  border: 2px solid #09cb48;
+}
+
+.taskbarStop-btn {
+  border: 2px solid #be2222;
+}
+
+.taskbarDelete-btn {
+  border: 2px solid #9260df;
+}
+
+.taskbarEdit-btn {
+  border: 2px solid #b7671d;
+}
+
+.task-bar h1 {
+  color: white;
+  font-family: sans-serif;
+  font-size: 12px;
+  display: inline-block;
+  padding-left: 20px;
+  padding-top: 2px;
+}
+
+.store-header {
+  margin-left: 10px;
+}
+
+.product-header {
+  margin-left: 50px;
+}
+
+.profile-header {
+  margin-left: 50px;
+}
+
+.size-header {
+  margin-left: 80px;
+}
+
+.status-header {
+  margin-left: 80px;
+}
+
+.proxyheader {
+  margin-left: 20px;
+}
+
+.mode-header {
+  margin-left: 30px;
+}
+
+.actions-header {
+  margin-left: 140px;
+}
+
+.tasks-list {
+  width: 955px;
+  margin-top: 10px;
+  height: 579px;
+  overflow: hidden;
+  overflow-y: scroll;
+}
+
+.tasks-list::-webkit-scrollbar-track {
+  background: #111317 !important;
+  margin-top: 10px;
+}
+
+.tasks-list::-webkit-scrollbar {
+  width: 10px;
+}

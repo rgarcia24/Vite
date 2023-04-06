@@ -1,0 +1,20 @@
+.ys-card {
+  background-color: #17191f;
+  width: 220px;
+  height: 140px;
+  border-radius: 10px;
+  margin-left: 1200px;
+  margin-top: 20px;
+}
+
+.ys-card img {
+  padding-top: 20px;
+  padding-left: 20px;
+}
+.totalcheckout-ys-p{
+  color: rgba(255, 255, 255, 0.43);
+  font-family: sans-serif;
+  padding-left: 40px;
+  margin-top: -10px;
+  font-size: 15px;
+}

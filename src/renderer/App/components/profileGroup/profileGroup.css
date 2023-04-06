@@ -1,0 +1,80 @@
+.profileGroup-div {
+  width: 290px;
+  height: 170px;
+  border-radius: 10px;
+  background: linear-gradient(105.41deg, #5e40a7 1.64%, #a269f0 100%);
+  margin-bottom: 10px;
+  margin-left: 20px;
+  margin-top: 10px;
+  box-sizing: border-box;
+  display: inline-block;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.329);
+  transition: 0.3s;
+}
+
+.profileGroup-div:hover {
+  cursor: pointer;
+  /* opacity: 60%;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.52); */
+}
+
+.profileGroup-div-selected {
+  width: 290px;
+  height: 170px;
+  border-radius: 10px;
+  opacity: 60%;
+  background: linear-gradient(105.41deg, #5e40a7 1.64%, #a269f0 100%);
+  margin-bottom: 10px;
+  margin-left: 20px;
+  margin-top: 10px;
+  box-sizing: border-box;
+  display: inline-block;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.profileGroup-div-selected p {
+  color: white;
+  font-family: sans-serif;
+  padding-left: 20px;
+}
+
+.profileGroup-div p {
+  color: white;
+  font-family: sans-serif;
+  padding-left: 20px;
+}
+
+.ProfileGroup-name {
+  font-weight: bold;
+}
+
+.profilesAmount {
+  color: rgba(255, 255, 255, 0.49) !important;
+  margin-top: -10px;
+  font-weight: bold;
+}
+
+.fourCard-info {
+  font-size: 15px;
+  word-spacing: 5px;
+}
+
+.fourCard-info p {
+  font-size: 15px;
+  word-spacing: 5px;
+}
+
+.profileGroup-actions img {
+  width: 20px;
+  float: right;
+  display: inline;
+  padding-right: 10px;
+  cursor: pointer;
+}
+
+.profileGroup-actions {
+  background-color: red;
+  margin-right: 18px;
+  margin-top: 70px;
+}

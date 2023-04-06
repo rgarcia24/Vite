@@ -1,0 +1,38 @@
+.sound-card {
+  background-color: #17191f;
+  margin-left: 580px;
+  margin-top: 15px;
+  border-radius: 10px;
+  width: 440px;
+  height: 182px;
+  color: white;
+  font-family: sans-serif;
+}
+
+.cartprod-header {
+  font-size: 20px;
+  padding-left: 30px;
+}
+.cartprod-soundPath {
+  color: #808080;
+  padding-left: 30px;
+  font-size: 13px;
+  margin-top: -50px;
+  float: left;
+}
+.testcart-sound {
+  width: 20px;
+  float: left;
+  margin-left: 309px;
+  margin-top: -50px;
+  display: flex;
+  cursor: pointer;
+}
+.editcart-sound {
+  float: left;
+  margin-left: 340px;
+  margin-top: -50px;
+  width: 20px;
+  cursor: pointer;
+  display: flex;
+}
